@@ -467,9 +467,6 @@ body {
   justify-content: space-between;
 }
 
-.footer__left {
-}
-
 .footer__logo {
   display: flex;
   align-items: center;
